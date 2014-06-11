@@ -1,0 +1,4 @@
+C:\Users\Nicke Manarin\documents\visual studio 2013\Projects\Logger\Logger\bin\Release\Logger.dll
+C:\Users\Nicke Manarin\documents\visual studio 2013\Projects\Logger\Logger\bin\Release\Logger.pdb
+C:\Users\Nicke Manarin\documents\visual studio 2013\Projects\Logger\Logger\obj\Release\Logger.dll
+C:\Users\Nicke Manarin\documents\visual studio 2013\Projects\Logger\Logger\obj\Release\Logger.pdb
